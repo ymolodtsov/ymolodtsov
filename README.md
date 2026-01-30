@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey 👋
 
-<!--
-**ymolodtsov/ymolodtsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've spent most of my professional life in venture capital and tech communications. I was an amateur coder before, and with AI, I became one again. Just tinkering here.
 
-Here are some ideas to get you started:
+## A few projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Readr](https://github.com/ymolodtsov/readr), a Safari-like Reading mode for Google Chrome and Chromium-based browsers
+- [Photowall](https://github.com/ymolodtsov/photowall), a clean and minimal Hugo theme for photographers with a unified masonry feed
+- [Flow](https://flow.molodtsov.me/), a minimal one-page note available in your browser and saving to local storage
+
+- 💬 Ask me about running communications and promoting tech projects.
+- 📫 How to reach me: [molodtsov.me](https://molodtsov.me/)
+
