@@ -9,5 +9,6 @@ I've spent most of my professional life in venture capital and tech communicatio
 - 📝 [Flow](https://flow.molodtsov.me/), a minimal one-page note available in your browser and saving to local storage
 
 💬 Ask me about running communications and promoting tech projects.
+
 📫 How to reach me: [molodtsov.me](https://molodtsov.me/)
 
