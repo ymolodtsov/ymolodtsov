@@ -9,6 +9,7 @@ I've spent most of my professional life in venture capital and tech communicatio
 - 🧀 [Hack & Cheese](https://news.molodtsov.me/), a Hacker News client with quality of life improvements
 - ⌚ [Timezones](https://time.molodtsov.me), a command line for timezones
 - 🎼 [MacPod](https://github.com/ymolodtsov/macpod), a tiny iPod Nano on your Mac that controls whatever's playing
+- 💠 [Strata](https://github.com/ymolodtsov/strata), a native outliner for Mac
 - 🌁 [Photowall](https://github.com/ymolodtsov/photowall), a clean and minimal Hugo theme for photographers with a unified masonry feed
 - ⛅ [Flow](https://flow.molodtsov.me/), a minimal one-page note available in your browser and saving to local storage
 - 📝 [Elsendo](https://github.com/ymolodtsov/elsendo), a full-on web-based note-taking app with sharing (based on Flow)
