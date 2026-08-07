@@ -9,6 +9,7 @@ I've spent most of my professional life in venture capital and tech communicatio
 - 📰 [Syndicator](https://syndicator.one/), an intelligent RSS reader with an algorithmic feed
 - 🧀 [Hack & Cheese](https://news.molodtsov.me/), a Hacker News client with quality of life improvements
 - 🎼 [MacPod](https://github.com/ymolodtsov/macpod), a tiny iPod Nano on your Mac that controls whatever's playing
+- 🎛️ [Knob](https://github.com/ymolodtsov/knob), a native Mac soundscape composer with tactile controls, layered ambience, and a focus timer
 - 🌁 [Photowall](https://github.com/ymolodtsov/photowall), a clean and minimal Hugo theme for photographers with a unified masonry feed
 - ⛅ [Flow](https://flow.molodtsov.me/), a minimal one-page note available in your browser and saving to local storage
 - 📝 [Elsendo](https://github.com/ymolodtsov/elsendo), a full-on web-based note-taking app with sharing (based on Flow)\
@@ -19,4 +20,3 @@ I've spent most of my professional life in venture capital and tech communicatio
 💬 Ask me about running communications and promoting tech projects.
 
 📫 How to reach me: [molodtsov.me](https://molodtsov.me/)
-
